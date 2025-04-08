@@ -29,7 +29,7 @@ void mousePressed() {
 
 // Operador AND (&&)
 
-boolean hayElectricidad = true;
+/*boolean hayElectricidad = true;
 boolean interruptorEncendido = false;
 
 void setup() {
@@ -42,10 +42,10 @@ void setup() {
     fill(0); // Negro (luz apagada)
     text("La luz está APAGADA", 100, 100);
   }
-} 
+} */
 
 //codigo para OR ||
-void setup () {
+/*void setup () {
 size(400, 400);
 void draw) {
 if (key == 'a' || key == 'b') {
@@ -53,4 +53,10 @@ background (255, 0, 0);
 } else {
 background (255) ;
 }
-}
+}*/
+
+//USAR WINDSURF PARA AL  ENFOCAR LA INTELIGENCIA ARTIFICIAL 
+//WINDSURF permite correr los comandos en la terminal del programa entoces puede ser mas utili para saber que comandos correr
+//Otra alternativa puede ser cursor pero la verdad que es relativamente basura
+
+//Processing para web P5.js
